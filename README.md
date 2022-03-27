@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aboobaqr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email abubakarusmanfari@gmail.com
+- 👀 I’m interested in frontend web development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on frontend web development projects
+- 📫 How to reach: abubakarusmanfari@gmail.com
 
 <!---
 aboobaqr/aboobaqr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
